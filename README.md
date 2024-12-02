@@ -2,7 +2,7 @@
 
 I'm **Yaser Belal**
 
- 👩‍💻 CS Student
+ - 👩‍💻 CS Student
 
 ----------
 

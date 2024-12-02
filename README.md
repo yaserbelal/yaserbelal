@@ -6,6 +6,7 @@ I'm **Yaser Belal**
 
 ----------
 
-## Projects 💼
+### Projects 💼
+
 - [Contacts_Book](https://github.com/yaserbelal/Contacts_Book)
 - [Quran_Playlist_Manager](https://github.com/yaserbelal/Quran_Playlist_Manager)

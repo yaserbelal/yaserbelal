@@ -1,6 +1,6 @@
 # Hi Gelexy 🌌!
 
-I'm [Yaser Belal]
+I'm **Yaser Belal**
 
 👩‍💻 CS Student
 ---

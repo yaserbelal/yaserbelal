@@ -1,5 +1,5 @@
 <h1 align="center">Hi Gelexy 🌌!</h1>  
-<h3 align="center">I'm **Yaser Belal**</h3>  
+<h3 align="center">I'm <b>Yaser Belal</b></h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaserbelal&label=Profile%20views&color=0e75b6&style=flat" alt="yaserbelal" /> </p>  
   
@@ -10,9 +10,7 @@
 - 📫 How to reach me **yasserbelal2005@gmail.com**  
   
 <h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="www.linkedin.com/in/yaser-belal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-belal" height="30" width="40" /></a>  
-<a href="https://codeforces.com/profile/Yaser_PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="30" width="40" /></a>  
+<p align="left">  <a href="www.linkedin.com/in/yaser-belal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-belal" height="30" width="40" /></a>  <a href="https://codeforces.com/profile/Yaser_PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
